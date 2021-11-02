@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MineSeeker</string>
+    <string name="title_activity_fullscreen">MineSeeker</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Developed by A and T</string>
+    <string name="title_activity_start">FullscreenActivity</string>
+    <string name="title_activity_instructions">FullscreenActivity</string>
+    <string name="Instructions">Welcome to MineSeeker! The game takes you to a minefield where inspecting a cell could either give you a mine
+    or the number of mines in the respective row and column of the particular cell scanned. Your Job? Find them in the least number of scans as possible. So Are You Ready, Inspector?</string>
+    <string name="Author">Authors: Archit Verma and Tanishk Sharma</string>
+    <string name="Award.png">Award.png :https://www.pngkit.com/view/u2w7t4q8o0t4r5q8_award-ribbon-icon-png-award-clipart-png/</string>
+    <string name="Blast.png">Sound.mp3 :https://pixy.org/954343/</string>
+    <string name="Music_service_and_HomeWatcher">Music Services and HomeWatcher: https://github.com/moisoni97/services.backgroud_music</string>
+    <string name="sound.mp3">Sound.mp3: https://freesound.org/people/Coral_Island_Studios/sounds/277651/</string>
+    <string name="MineSeeker.mp3">MineSeeker: http://www.orangefreesounds.com/cinematic-electronic-track/</string>
+    <string name="CMPT276">CMPT276: https://opencoursehub.cs.sfu.ca/jackt/grav-cms/cmpt276-2/home</string>
+</resources>
